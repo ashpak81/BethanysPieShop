@@ -27,8 +27,8 @@ To get a local copy of the project up and running, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your/repository.git
-   cd repository-name
+   git clone https://github.com/ashpak81/BethanysPieShop.git
+   cd BethanysPieShop
    ```
 
 2. **Install dependencies:**
