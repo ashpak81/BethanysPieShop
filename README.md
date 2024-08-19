@@ -1,7 +1,7 @@
 # Pie Shop E-commerce Website
 
 Welcome to the Pie Shop E-commerce Website project! This website allows pie shoppers to browse, add pies to their cart, apply filters, and make purchases. Admin users can manage pie inventory and details.
-
+  
 ## Features
 
 - **Browse Pies:** View a variety of delicious pies available for purchase.
